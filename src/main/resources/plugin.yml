@@ -1,0 +1,5 @@
+name: CombineSlot
+description: "CombineSlot for the Minecraft server browser"
+author: "Tan Toan"
+main: rootmc.net.combineslot.Main
+version: ${project.version}
